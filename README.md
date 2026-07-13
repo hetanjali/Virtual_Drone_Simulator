@@ -50,3 +50,8 @@ This project was developed as part of the **Design Engineering (DE)** coursewo
 | Graphics | Pygame |
 | Mathematics | Python Math Library |
 | Webcam | OpenCV VideoCapture |
+
+👩‍💻 Author
+---
+Hetanjali Vaghela — Robotics & Automation Engineering
+
