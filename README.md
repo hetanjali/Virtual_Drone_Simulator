@@ -1,3 +1,6 @@
+![Alt Text](drone_simulation.png)
+
+
 # 🚁 Gesture Controlled Drone Simulator
 
 A real-time **hand gesture controlled drone simulator** built using **Python, MediaPipe, OpenCV, and Pygame**. The system detects hand gestures through a webcam, recognizes the number of fingers shown, and converts them into drone movement commands inside a 2D drone simulation.
